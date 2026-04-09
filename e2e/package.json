@@ -1,0 +1,13 @@
+{
+  "name": "developer-challenge-tests",
+  "version": "1.0.0",
+  "description": "E2E and Integration testing for Developer Challenges",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
